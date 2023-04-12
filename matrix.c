@@ -86,7 +86,7 @@ void multiply_matrix(int **matrix1, int **matrix2, int row1, int col1, int col2)
 int main(){
     int row, col; //int형 row와 col 선언
 
-    printf("[----- [최가은] [2022078054] -----]");
+    printf("[----- [최가은] [2022078054] -----]"); //이름, 학번 출력
 
     //행과 열 개수 입력 받기
     printf("Enter the number of rows and columns for Matrix A: ");
