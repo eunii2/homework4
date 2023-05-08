@@ -152,4 +152,4 @@ free_matrix(matrix_a, row); //matrix_a의 메모리 해제
 free_matrix(matrix_b, row); //matrix_b의 메모리 해제
 
 return 0;
-}
+}//안녕 은이
